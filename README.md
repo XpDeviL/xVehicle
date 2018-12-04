@@ -11,7 +11,7 @@ I've also put those into script file. If you already have them ignore it.
 - logcore.dll and logcore.so files are MySQL plugin's files. If you don't have MySQL plugin, put this in you main gamemode directory.
 (If you use Windows put the .dll files, if you use linux put the .so files)
 
-- MySQL tables will be automatically created. Just enter your MySQL informations.
+- MySQL tables will be automatically created. Just enter your MySQL credentials.
 
 ----
 
