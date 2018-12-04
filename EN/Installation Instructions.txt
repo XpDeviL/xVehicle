@@ -1,0 +1,14 @@
+xVehicle v2 - by XpDeviL
+
+Installation information:
+
+- You need to MySQL-r41 and sscanf plugins to use the system.
+I've put those into script file. If you already have them ignore it and just install xVehicleV2.amx
+
+- If you want to edit the script you'll also need to MySQL-r41, zcmd, sscanf2 and YSI includes.
+I've put those too into script file. If you already have them ignore it.
+
+- logcore.dll and logcore.so files are MySQL plugin's files. If you don't have MySQL plugin, put this in you main gamemode directory.
+(If you use Windows put the .dll files, if you use linux put the .so files)
+
+- MySQL tables will be automatically created. Just enter your MySQL informations.

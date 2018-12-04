@@ -1,0 +1,15 @@
+xVehicle v2 - by XpDeviL
+
+Kurulum Bilgilendirmesi:
+
+- Sistemin çalýþmasý için MySQL-r41 ve sscanf pluginleri gereklidir.
+Ben sistemin yanýnda onlarý da koydum. Eðer sizde bunlar zaten kuruluysa sadece Filterscripts klasörünün içindekileri almanýz yeterlidir.
+
+- Sistemi düzenlemek isterseniz de yine MySQL-r41, zcmd, sscanf2 ve YSI include'larý gereklidir.
+Ben onlarý da koydum sistemin yanýna. Eðer sizde bular zaten kuruluysa bunlarý da kurmanýza gerek yoktur.
+
+- logcore.dll ve logcore.so dosyalarý MySQL plugininin dosyalarýdýr. Eðer MySQL kurulu deðilse bunlarý da modunuzun ana dizinine atmalýsýnýz.
+(Eðer Windows kullanýyorsanýz .dll uzantýlý dosyalarý, linux kullanýyorsanýz .so uzantýlý dosyalarý kurun)
+
+- Sistemi kullanmak için sizin ekstradan MySQL veritabanýnda tablo oluþturmanýza gerek yoktur. Sadece MySQL bilgilerinizi girin yeter.
+Sistem otomatik olarak tablolarý oluþturacaktýr.
